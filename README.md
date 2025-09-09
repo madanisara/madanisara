@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sara Madani
+I am a master student enrolled in the MSc in Artificial Intelligence at Vrije Universiteit Amsterdam. I've recently graduated with a BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University and during my bachelor studies I've attended a semester at Boston College as an exchange student. As my studies suggest, I'm really passionate about AI and its applications, including VR and design.
 
 <!--
 **madanisara/madanisara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
