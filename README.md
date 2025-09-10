@@ -35,9 +35,9 @@ During my bachelor I had the opportunity to develop multiple Machine Learning-dr
 
 #### 2) AI Lab Project: ML for Health [https://github.com/madanisara/ml-for-health]
 
-#### 3) AI & ML applied to the education field - Bachelor Thesis Project
+#### 3) Code Companion: Using ML to Detect Vulnerabilities in Code
 
-#### 4) Code Companion: Using ML to Detect Vulnerabilities in Code
+#### 4) AI & ML applied to the education field - Bachelor Thesis Project
 
 
 <!--
