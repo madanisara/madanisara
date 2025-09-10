@@ -20,6 +20,13 @@ The aim of these projects is to represent visually various models in a 3D enviro
 ### - Unity environments
 Through Unity, a virtual reality game development software and engine, I designed some VR environments with specific interactive elements. The main projects are designing a garage and a park, both supervised by an online course provided by the University of London.
 
+<details>
+<summary>Unity Hub portfolio</summary>
+  
+- [Garage VR model]()
+- [Park VR model]()
+</details>
+
 ---
 ### - Machine Learning and Artificial Intelligence Programming (Python)
 During my bachelor I had the opportunity to develop multiple Machine Learning-driven python codes, individually and as a team with other students. These varied both in means and goals, meaning that not only the techniques used are quite different but the application areas vary as well.
