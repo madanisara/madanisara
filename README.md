@@ -1,5 +1,5 @@
 # Sara Madani
-I am a master student enrolled in the MSc in Artificial Intelligence at Vrije Universiteit Amsterdam. I've recently graduated with a BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University and during my bachelor studies I've attended a semester at Boston College as an exchange student. As my studies suggest, I'm really passionate about AI and its applications, including VR and design.
+Welcome! I am Sara, a master student enrolled in the MSc in Artificial Intelligence at Vrije Universiteit Amsterdam. I've recently graduated with a BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University and during my bachelor studies I've attended a semester at Boston College as an exchange student. As my studies suggest, I'm really passionate about AI and its applications, including VR and design.
 
 ## Projects
 ### - SketchUp Models
