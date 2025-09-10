@@ -23,8 +23,8 @@ Through Unity, a virtual reality game development software and engine, I designe
 <details>
 <summary>Unity Hub portfolio</summary>
   
-- [Garage VR model]()
-- [Park VR model]()
+- [Garage VR model](https://github.com/madanisara/unity-environment/releases/tag/v1.0)
+- [Park VR model](https://github.com/madanisara/unity-environment/releases/tag/v1.0.0)
 </details>
 
 ---
