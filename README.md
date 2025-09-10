@@ -18,7 +18,7 @@ The aim of these projects is to represent visually various models in a 3D enviro
 
 ---
 ### - Unity environments
-Through Unity, a virtual reality game development software and engine, I designed some VR environments with specific interactive elements. The main projects are designing a garage and a park, both supervised by an online course provided by the University of London.
+Through Unity, a virtual reality game development software and engine, I designed some VR environments with specific interactive elements. Indeed, the goal was to develop models, taking care of both the visual/auditory aspect and the interactive one. The main projects consist in designing a garage and a park, both supervised by an online course provided by the University of London.
 
 <details>
 <summary>Unity Hub portfolio</summary>
