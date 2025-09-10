@@ -9,11 +9,11 @@ The aim of these projects is to represent visually various models in a 3D enviro
 <summary>SketchUp portfolio</summary>
   
 - [Ovalia Chair](https://app.sketchup.com/share/tc/northAmerica/bRvSjicGOM0?stoken=emlKmnN9ikRNTocJSU1debQ3ws8H8GBrTFHBi3zP_P75AWs6F39EqVQOTT2zlPD8&source=web)
-- [Rietveld Chair](https://...)
-- [Mackintosh Chair](https://...)
-- [Krat Tafel](https://...)
-- [Hotel design](https://...)
-- [Stairs project](https://...)
+- [Rietveld design objects (chair and table)](https://app.sketchup.com/share/tc/northAmerica/3K9jWbMGZrk?stoken=ALGCX_4e9iFRsIVt4V76WARgrvyLzlf3qYdyds1VqvWDJjMutuKVUPT10Ig2gAaw&source=web)
+- [Mackintosh Chair](https://app.sketchup.com/share/tc/northAmerica/QSPsGnbz4BI?stoken=1xd69B_iikC9wLWY6NnZpghXl4U2BMqMFCi8O0uSG-fV64JMEXNzaU5VnlUYhOEg&source=web)
+- [Krat Tafel](https://app.sketchup.com/share/tc/northAmerica/pLZPwdBxQXo?stoken=iGDoBH46OzMhYaPwF0sDj6RbcsKtpeX8laXwh4ZoMXSmCt_U4VNy7dP6LsDx1pqw&source=web)
+- [Hotel design](https://app.sketchup.com/share/tc/northAmerica/5s30q9s9k2s?stoken=c5jd2ILgEEpqdeWy9PRHM9r2Afnqc2gYb0RjHOn8Ba1xUMUB6khT0WFF8EUwwUiT&source=web)
+- [Stairs project](https://app.sketchup.com/share/tc/northAmerica/Tvs2qkL1miU?stoken=zZah1tkaDlEQD0sH2GSHDHiPWSyl_w1aVdxE313KbmSJ5kYqVzqH-6ZFUT8zKh6d&source=web)
 </details>
 
 ---
