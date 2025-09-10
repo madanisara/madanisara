@@ -33,7 +33,7 @@ During my bachelor I had the opportunity to develop multiple Machine Learning-dr
 
 #### 1) [ML for predicting specific variables](https://github.com/madanisara/ml-multiclass-classification)
 
-#### 2) AI Lab Project: ML for Health [https://github.com/madanisara/ml-for-health]
+#### 2) [AI Lab Project: ML for Health](https://github.com/madanisara/ml-for-health)
 
 #### 3) Code Companion: Using ML to Detect Vulnerabilities in Code
 
