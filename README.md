@@ -8,12 +8,12 @@ The aim of these projects is to represent visually various models in a 3D enviro
 <details>
 <summary>SketchUp portfolio</summary>
   
-- [Ovalia Chair](https://app.sketchup.com/share/tc/northAmerica/bRvSjicGOM0?stoken=emlKmnN9ikRNTocJSU1debQ3ws8H8GBrTFHBi3zP_P75AWs6F39EqVQOTT2zlPD8&source=web)
-- [Rietveld design objects (chair and table)](https://app.sketchup.com/share/tc/northAmerica/3K9jWbMGZrk?stoken=ALGCX_4e9iFRsIVt4V76WARgrvyLzlf3qYdyds1VqvWDJjMutuKVUPT10Ig2gAaw&source=web)
-- [Mackintosh Chair](https://app.sketchup.com/share/tc/northAmerica/QSPsGnbz4BI?stoken=1xd69B_iikC9wLWY6NnZpghXl4U2BMqMFCi8O0uSG-fV64JMEXNzaU5VnlUYhOEg&source=web)
-- [Krat Tafel](https://app.sketchup.com/share/tc/northAmerica/pLZPwdBxQXo?stoken=iGDoBH46OzMhYaPwF0sDj6RbcsKtpeX8laXwh4ZoMXSmCt_U4VNy7dP6LsDx1pqw&source=web)
-- [Hotel design](https://app.sketchup.com/share/tc/northAmerica/5s30q9s9k2s?stoken=c5jd2ILgEEpqdeWy9PRHM9r2Afnqc2gYb0RjHOn8Ba1xUMUB6khT0WFF8EUwwUiT&source=web)
-- [Stairs project](https://app.sketchup.com/share/tc/northAmerica/Tvs2qkL1miU?stoken=zZah1tkaDlEQD0sH2GSHDHiPWSyl_w1aVdxE313KbmSJ5kYqVzqH-6ZFUT8zKh6d&source=web)
+- [Ovalia Chair](https://app.sketchup.com/share/tc/northAmerica/bRvSjicGOM0?stoken=emlKmnN9ikRNTocJSU1debQ3ws8H8GBrTFHBi3zP_P75AWs6F39EqVQOTT2zlPD8&source=web);
+- [Rietveld design objects (chair and table)](https://app.sketchup.com/share/tc/northAmerica/3K9jWbMGZrk?stoken=ALGCX_4e9iFRsIVt4V76WARgrvyLzlf3qYdyds1VqvWDJjMutuKVUPT10Ig2gAaw&source=web);
+- [Mackintosh Chair](https://app.sketchup.com/share/tc/northAmerica/QSPsGnbz4BI?stoken=1xd69B_iikC9wLWY6NnZpghXl4U2BMqMFCi8O0uSG-fV64JMEXNzaU5VnlUYhOEg&source=web);
+- [Krat Tafel](https://app.sketchup.com/share/tc/northAmerica/pLZPwdBxQXo?stoken=iGDoBH46OzMhYaPwF0sDj6RbcsKtpeX8laXwh4ZoMXSmCt_U4VNy7dP6LsDx1pqw&source=web);
+- [Hotel design](https://app.sketchup.com/share/tc/northAmerica/5s30q9s9k2s?stoken=c5jd2ILgEEpqdeWy9PRHM9r2Afnqc2gYb0RjHOn8Ba1xUMUB6khT0WFF8EUwwUiT&source=web);
+- [Stairs project](https://app.sketchup.com/share/tc/northAmerica/Tvs2qkL1miU?stoken=zZah1tkaDlEQD0sH2GSHDHiPWSyl_w1aVdxE313KbmSJ5kYqVzqH-6ZFUT8zKh6d&source=web).
 </details>
 
 ---
@@ -31,13 +31,13 @@ Through Unity, a virtual reality game development software and engine, I designe
 ### - Machine Learning and Artificial Intelligence Programming (Python)
 During my bachelor I had the opportunity to develop multiple Machine Learning-driven python codes, individually and as a team with other students. These varied both in means and goals, meaning that not only the techniques used are quite different but the application areas vary as well.
 
-#### 1) [ML for predicting specific variables](https://github.com/madanisara/ml-multiclass-classification)
+#### 1) [ML for predicting specific variables](https://github.com/madanisara/ml-multiclass-classification);
 
-#### 2) [AI Lab Project: ML for Health](https://github.com/madanisara/ml-for-health)
+#### 2) [AI Lab Project: ML for Health](https://github.com/madanisara/ml-for-health);
 
-#### 3) [Code Companion: Using ML to Detect Vulnerabilities in Code](https://github.com/madanisara/vulnerability-detection-in-code)
+#### 3) [Code Companion: Using ML to Detect Vulnerabilities in Code](https://github.com/madanisara/vulnerability-detection-in-code);
 
-#### 4) AI & ML applied to the education field - Bachelor Thesis Project
+#### 4) AI & ML applied to the education field - Bachelor Thesis Project.
 
 
 <!--
