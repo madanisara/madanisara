@@ -41,7 +41,7 @@ During my bachelor I had the opportunity to develop multiple Machine Learning-dr
 #### 4) [AI & ML applied to the education field - Bachelor Thesis Project](https://github.com/madanisara/ai-for-education).
 
 
-### - Robot Zoo Project (Evolutionary Computing techniques) ([source](https://github.com/madanisara/robot-zoo))
+### - Robot Zoo Project - Evolutionary Computing techniques ([source](https://github.com/madanisara/robot-zoo))
 
 ### - SAT Sudoku Solver ([source](https://github.com/madanisara/sat-solver))
 
