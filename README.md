@@ -40,15 +40,17 @@ During my bachelor I had the opportunity to develop multiple Machine Learning-dr
 
 #### 4) [AI & ML applied to the education field - Bachelor Thesis Project](https://github.com/madanisara/ai-for-education).
 
-### - Robot Zoo Project (Evolutionary Computing)
+
+### - Evolutionary Computing
 <details>
-<summary>Project description</summary>
+<summary>Robot Zoo Project</summary>
 This project involves the creation, evolution and selection of a collection of modular robot bodies, through techniques belonging to the field of evolutionary computing. The final goal is obtaining a test suite, namely a set of interesting robots for algorithm benchmarking.
 </details>
 
-### - SAT Sudoku Solver
+
+### - SAT Solver Development
 <details>
-<summary>Project description</summary>
+<summary>SAT Sudoku Solver</summary>
 The purpose here is to encode non-consecutive Sudokus to Conjunctive Normal Form (CNF) and design a SAT solver to find their solutions. As a side research question, a deeper level of understanding is reached through a comparative analysis of propositional SAT solving and Machine Learning predition under accuracy-time constraints.
 </details>
 
