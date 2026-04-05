@@ -28,7 +28,7 @@ Through Unity, a virtual reality game development software and engine, I designe
 </details>
 
 ---
-### [Python Coding]
+#### [Python Coding]
 ### - Machine Learning and Artificial Intelligence Programming
 During my bachelor I had the opportunity to develop multiple Machine Learning-driven python codes, individually and as a team with other students. These varied both in means and goals, meaning that not only the techniques used are quite different but the application areas vary as well.
 
@@ -40,6 +40,9 @@ During my bachelor I had the opportunity to develop multiple Machine Learning-dr
 
 #### 4) [AI & ML applied to the education field - Bachelor Thesis Project](https://github.com/madanisara/ai-for-education).
 
+### - Evolutionary Computing
+
+### - SAT Solver
 
 <!--
 **madanisara/madanisara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
