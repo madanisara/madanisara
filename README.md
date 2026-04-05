@@ -28,7 +28,8 @@ Through Unity, a virtual reality game development software and engine, I designe
 </details>
 
 ---
-### - Machine Learning and Artificial Intelligence Programming (Python)
+### [Python Coding]
+### - Machine Learning and Artificial Intelligence Programming
 During my bachelor I had the opportunity to develop multiple Machine Learning-driven python codes, individually and as a team with other students. These varied both in means and goals, meaning that not only the techniques used are quite different but the application areas vary as well.
 
 #### 1) [ML for predicting specific variables](https://github.com/madanisara/ml-multiclass-classification);
